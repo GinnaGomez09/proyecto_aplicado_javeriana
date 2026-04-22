@@ -1,0 +1,10 @@
+pandas
+numpy
+spacy
+nltk
+rapidfuzz
+unidecode
+jupyter
+matplotlib
+scikit-learn
+openpyxl
