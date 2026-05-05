@@ -25,3 +25,14 @@ Fase 1: Comprensión y preparación de datos
 - RapidFuzz
 - regex
 - Jupyter Notebook
+
+## Datos
+
+Los datos utilizados en este proyecto se encuentran en:
+
+- data/raw/recetas/recetas_ingredientes.csv
+- data/raw/tcac/tcac.csv
+
+Estos corresponden a:
+- Corpus de recetas colombianas
+- Tabla de Composición de Alimentos Colombianos (TCAC)
